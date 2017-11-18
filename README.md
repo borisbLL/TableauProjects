@@ -5,9 +5,19 @@ with Tableau related stuff and projects.
 
 ## Project 01 Files:  
 
+_write here brief intro about the project_  
+
+
 ## Project 02 Files:  
 
+_write here brief intro about the project_  
+
+* `UK_tourism_trends_1995-2014.twbx`  
+
+
 ## Project 03 Files:
+
+_write here brief intro about the project_  
 
 * `NYC-Felonies.tde`			dataset
 * `Project-slides_short.pdf` 	short presentation file
@@ -16,7 +26,7 @@ with Tableau related stuff and projects.
 
 
 
-## Credits and mentions
+## Credits and special mentions
 
 ### Project 03:
 
